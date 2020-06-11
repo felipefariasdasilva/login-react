@@ -1,6 +1,6 @@
 # Login
 
-Um parágrafo simples dando uma descrição sobre o projeto 
+Tela de login com roteamento de página, autenticação e autorização
 
 ## Começando
 
@@ -54,11 +54,12 @@ http://localhost:3000
 
 Finalize com um exemplo obtendo dados do sistema ou fazendo uma pequena demostração do funcionamento da aplicação
 
-
 ## Executando os testes
 
-Explique como rodar os testes automáticos do seu sistema caso haja algum
-
+1 . Execução dos testes unitáarios
+```
+npm test
+```
 
 ### Análise dos testes fim-a-fim
 
@@ -81,10 +82,7 @@ Dê um exemplo
 Adicione notas de como dar deploy do sistema em produção.
 
 ## Desenvolvido com
-Mencionar os frameworks e ferramentes utilizados para se desenvolver essa aplicação. Como por exemplo:
-
-* [Angular](https://angular.io/) - O framework web utilizado
-* [MongoDb](https://www.mongodb.com/) - O banco de dados utilizado.
+* [ReactJS](https://reactjs.org/) - O framework web utilizado
 
 ## Contribuições
 
