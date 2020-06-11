@@ -7,11 +7,16 @@ Um parágrafo simples dando uma descrição sobre o projeto
 As instruções a seguir irão lhe proporcionar uma cópia deste projeto e de como rodar em sua máquina local para propósito de desenvolvimento e testes. Veja na sessão de [deployment](#Deployment) para saber com mais detalhes de como dar deploy em sua aplicação.
 
 ### Pre-requisitos
-
 Dependências necessárias para se instalar o software e como instalá-las.
 
+1. Tenha certeza que você tenha o node instalado em sua máquina (https://nodejs.org/en/)
+
 ```
-Dê um exemplo
+$ node -v
+```
+2. E também o gerenciador de pacotes NPM (https://www.npmjs.com/)
+```
+$ nPM -v
 ```
 
 ### Instalação
