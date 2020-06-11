@@ -12,26 +12,38 @@ Dependências necessárias para se instalar o software e como instalá-las.
 1. Tenha certeza que você tenha o node instalado em sua máquina (https://nodejs.org/en/)
 
 ```
-$ node -v
+node -v
 ```
 2. E também o gerenciador de pacotes NPM (https://www.npmjs.com/)
 ```
-$ nPM -v
+npm -v
 ```
 
 ### Instalação
 
-Passo a passo seguidos de exemplos mostrando como se obter o ambiente de desenvolvimento rodando. É uma boa prática colocar o modo de instalação para Windows, macOS e para as principais distribuições Linux.
+Para rodar a aplicação, execute os próximos passos:
 
-Explique o que essa etapa será
+1. Faça o clone do projeto
 ```
-Dê um exemplo
+https://github.com/felipefariasdasilva/login-react.git
 ```
 
-E repita
+2. Entre na pasta
 
 ```
-Até acabar
+cd login-react
+```
+
+3. E rode o seguinte comando para inicializar a aplicação
+
+```
+npm start
+```
+
+4. Acesse no seu navegador o link de execução
+
+```
+http://localhost:3000
 ```
 
 Finalize com um exemplo obtendo dados do sistema ou fazendo uma pequena demostração do funcionamento da aplicação
