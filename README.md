@@ -9,7 +9,7 @@ As instruções a seguir irão lhe proporcionar uma cópia deste projeto e de co
 ### Pre-requisitos
 Dependências necessárias para se instalar o software e como instalá-las.
 
-1. Tenha certeza que você tenha o node instalado em sua máquina (https://nodejs.org/en/)
+1. Tenha certeza que você tenha o node instalado em sua máquina (https://nodejs.org/)
 
 ```
 node -v
