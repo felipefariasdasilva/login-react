@@ -1,5 +1,7 @@
 # Login
 
+[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+
 Tela de login com roteamento de página, autenticação e autorização
 
 ## Começando
