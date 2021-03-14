@@ -77,11 +77,11 @@ Explique o que esses testes testam e o porque.
 Dê um exemplo
 ```
 
-## Deployment
+## :rocket: Deployment
 
 Adicione notas de como dar deploy do sistema em produção.
 
-## Desenvolvido com
+## :mag_right: Desenvolvido com
 * [ReactJS](https://reactjs.org/) - O framework web utilizado
 
 ## Contribuições
@@ -103,8 +103,3 @@ Veja também a lista completa de [contribuidores](https://github.com/your/projec
 ## Licença
 
 Esse projeto é licenciado pela MIT License - veja também [LICENSE.md](LICENSE.md) para mais detalhes
-
-## Agradecimentos
-
-* Inspiração
-* etc
